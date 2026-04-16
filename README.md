@@ -26,9 +26,9 @@ Systems Development Student at ETEC | Focused on Web Programming & Backend Devel
 
 ### 📊 GitHub Stats
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperMattheww&show_icons=true&theme=dark&hide_border=true)
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByDevMatthew&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMattheww&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByDevMatthew&layout=compact&theme=dark&hide_border=true)
 
 ---
 
